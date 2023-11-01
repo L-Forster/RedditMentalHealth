@@ -1,0 +1,150 @@
+I have gone through the same stages so many times I am beyond exhausted. I feel passively suicidal and wish that someone would shoot me or I'd die in an accident or something. Being beset by these thoughts exhausts me to the point I feel numb and I dissociate from myself and whatever is happening around me. I fall into a state of being unproductive and become listless. At this point everything is a chore including basic things like brushing my teeth, doing my laundry, or going to the grocery. I have to then put all of these tasks on my habit tracker to create an incentive to do all of these things, and manufacture motivation by seeing the "streak" that I have maintained. I somehow then muster the energy over the span of weeks to reach a functional state where I am fairly productive. Then automatically, or by virtue of some trigger, my passively suicidal thought become intense, I become exhausted and the cycle repeats. I have been living through this hell for 2 years now and I don't know how many more of these cycles I have left in my. The sheer mechanical nature of this makes me dejected and I induces a feeling of helplessness. I hate this.I want to add the property/metadata "type" with the value "essay" to all markdown files in a particular folder. Is there any way to achieve this?. There are several [news reports](https://economictimes.indiatimes.com/news/defence/hamas-blocking-evacuation-of-civilians-in-gaza-idf-ahead-of-ground-offensive/articleshow/104438188.cms?from=mdr) that say that Hamas is blocking the evacuation of civilians from the Northern part of Gaza, with the source of this information being the IDF. I am doubtful as to the veracity of this claim. Can someone verify if this is indeed true?. &#x200B;
+
+https://preview.redd.it/pydl22fsn8tb1.png?width=787&format=png&auto=webp&s=f664f0c314ac898ce3b5907e138c24b56992294b
+
+Images are not displayed within Obsidian, although the images have not been corrupted and can be viewed separately. 
+
+&#x200B;
+
+[This is the error that shows up in the console.](https://preview.redd.it/bsfvuzpdo8tb1.png?width=515&format=png&auto=webp&s=c5ccb8c5f2d8911a9e5114a409f6cc7eb2536a6d)
+
+I have tried reinstalling the app. I have also tried removing the .config folder of obsidian and reinstalling the app. None of this has helped.So this has been happening on multiple instances now. Every now and then when I login to my desktop, I find that the plasma panel won't load and my desktop is unresponsive. The widgets don't load either. Things go back to normal only after I reset my .config file. I have had to do this 5 times this month and I am beyond irritated at this point. I would be grateful if someone could help me resolve this issue. Thanks.
+
+&#x200B;
+
+Below is a screeshot of my desktop. As you can see, the plasma panel has not loaded. The widgets have not loaded.
+
+https://preview.redd.it/ac1h099t45rb1.png?width=1920&format=png&auto=webp&s=1473356769bb6a8c79d61d0f6d7e9e44c6d02c52
+
+&#x200B;. I came across [this video](https://www.youtube.com/watch?v=qOEV7q7B2DU) of Advocate Jai Sai Deepak's arguments in the Supreme Court during the Same-Sex Marriage hearings. I found several points raised by him in this excerpt to be extremely problematic and deserving of criticism, and since afaik, nobody has responded to his arguments, I have written an admittedly inchoate response to some of the points that he raised. These are some of the arguments raised by JSD that I intend to respond to:
+
+1. **When the petitions raise the issue of change of heteronormative attitudes, the society has a right to participate in these proceedings**
+2. **Does social conservativeness have no place within the constitution?**
+3. **The nature of the submissions has the effect of individualizing socio-centric institutions such as marriage** **The absence of society's say in this matter demeans the institution of marriage and takes away its social character.**
+4. **The fact that the legislation that is the subject of the proceedings is SMA warrants the society's participation**
+5. **The object of a marriage is a child**
+6. **Public morality is fashioned by normative attitudes and the norm is decided primarily by the mainstream.**
+
+These views in my opinion expressed by JSD in my opinion have not received sufficient attention or criticism from left/liberal circles. These views are highly problematic in my opinion since JSD is making a case for entrenching majoritarian fiat under the garb of "democracy". While it may be contended that JSD is merely playing the role of a lawyer in this instance, I believe that his political views, as well as his arguments in the Marital Rape hearings before the Delhi High Court among other things, reflect a propensity to subjugate minority rights and concerns to "social norms" and "public sentiment", a discourse that is dangerous and deserves some pushback. The comments on this video have unfortunately engaged in blind praise of JSD's oratory skills without evaluating the strength of his arguments. I do not intend to pen down a full critique of his arguments here but I would like to put forth some objections to what I find are glaring deficiencies in his arguments:
+
+* While society's right to participate in these proceedings cannot be gainsaid, the current government (as well as its predecessors) has a lackluster record when it comes to engaging in substantive consultations. For eg., the absence of meaningful consultations by the Centre was evident from the pushback on the 2019 Transgender Persons (Protection of Rights) Act 2019. The government virtually ignored the responses by various trans rights groups to the successive versions of the bill proposed and enacted a bill that pretty much went against the grain of the NALSA judgment.
+* Notwithstanding the importance of meaningful consultations by the Centre before passing Bills, what if the "society at large" decides that same-sex marriage goes against the grain of its norms, and thus ought not to be recognized? It is here that one must point out that Democracy requires not just majority rule but recognition of minority rights as well. One of the mechanisms designed for this purpose is the recognition of Fundamental rights under our Constitution, which among other things, mandates equal treatment of those similarly situated. In response to JSD's question as to the "place of conservative voices in the Constitution", the answer would be that those voices find a place insofar as they do not go against the Fundamental Rights guaranteed to all citizens. Any other conclusion would dilute the very purpose of Fundamental Rights. The Special Marriage Act (SMA) is an explicitly secular law, since it is open to those who do not want to get married under applicable personal laws. Thus, it inherently excludes religious and cultural conceptions of marriage (that are by and large embedded in heteronormativity). Marriage, notwithstanding its purported religious origins, is no longer a mere sacrament, rather, it is a status conferred by law that among other things, carries with it additional rights and benefits such as filing taxes jointly, inheriting property, and opening joint bank accounts. Once the SMA is extricated from its alleged social and religious embedding, the question that arises is whether SMA discriminates against heterosexual couples. Now that heterosexual relationships have been decriminalized five years ago by the Supreme Court, the key question that needs to be addressed is whether the artificial classification that SMA creates between heterosexual and same-sex couples is valid. In my opinion, it is not, and thus, there is a good case for the court to provide a stipulated period for the government to make the necessary amendments to the SMA to render it inclusive of same-sex marriages, failing which, the provisions of the Act should be read as inclusive of same-sex marriages.
+* JSD's statement that the object of marriage is procreation is beyond facile. Firstly, if this were necessarily the case, then impotent persons would be prevented from marrying, and impotent couples would necessarily have the status of the marriages get annulled. Marriages serve other legitimate legal needs such as choosing nominees for insurance policies, joint filing of taxes, and so on, and their purpose is certainly not restricted to that of child-rearing.
+* JSD's appeal that public morality ought to be dictated by mainstream normative attitudes is a dangerous one to make, since it can render the fundamental rights of minorities vulnerable and amenable to the whims of majoritarian tyranny. Arguably, his argument that the legalization of same-sex marriages under SMA necessitates the participation of all communities obfuscates the secular substance of the statute. While there is a case to be made that legalization of same-sex marriages under personal laws ought to be done only with the consent of the particular community, the same doesn't apply for SMA, simply because SMA was envisaged to cater to the rights of those persons who wanted to marry *outside the personal laws*. For instance, a [Pew survey](https://www.bbc.com/news/world-asia-india-57647931) apparently found that most Indians are opposed to interfaith marriage. However, that is not a valid basis to repeal the SMA and render interfaith marriages illegal. The same logic applies to same-sex marriages.
+* As an endnote: I feel that a lot of JSD's discourse is problematic since his ideas seem to revolve around appeasing the base prejudices of the population rather than trying to elevate them. His arguments in this video reek of rank majoritarianism which unfortunately has not received sufficient pushback, and even more regrettably, a lot of people seem to uncritically lap up this rhetoric. There are a lot of prejudices deeply rooted in our society, many of which cannot necessarily be surmounted by minorities making their case for their rights to be recognized. To suggest that LGBTQIA+ couples should patiently await the recognition of their rights in the waiting room of history is an egregious suggestion to make; one that is redolent of authoritarianism and must thus be firmly rejected.I noticed that lately, the tasks that I schedule in my lists do not show up in my homepage as they used to. Any idea what's up?
+
+&#x200B;
+
+https://preview.redd.it/3kjo1olr7fib1.png?width=701&format=png&auto=webp&s=d859fe82ce257bd0e60aa5471f853bd4af3c3332. I am unable to connect to MTP devices (my android phone) or my pendrive on my KDE Neon Desktop. I get the following message when I try to access the files in my Android device from dolphin: **"The file or Folder udi=/org/kde/solid/udev/sys/devices/pci0000:00/0000:00:14.0/usb3/3-2 does not exist."**
+
+The problem persists on alternative file managers
+
+The following are the details of my operating system: 
+
+1. KDE Plasma Version:  5.27.7
+2. Kernel-Version:  6.2.0-26-generic (64-bit)
+3. Graphics Platform: X11 
+
+The following packages pertaining to MTP have been installed on my desktop 
+
+https://preview.redd.it/2oww9xe57aib1.png?width=1072&format=png&auto=webp&s=978bedb218d9e190c3b943696f31e6d0787a4c88
+
+Are there any plausible solutions to this problem?. For the past couple of months, the performance of certain GTK/GTK+ apps such as xournal++ and foliate reader has been marked by slowness in scrolling and lethargic response to commands. For instance, when I try to highlight a line of text on foliate, there is a delay in carrying out the desired operation. Similarly, on xournal++, the scrolling functionality has become extremely slow and delayed so much that I can no longer use the app on my desktop. Any possible solutions to this problem would be appreciated.Would appreciate it if anybody could give me access to a pdf version of *International Economic Law: Text, Cases and Materials by James J. Nedumpara and Leïla Choukroune*. My anxiety has gotten worse. So has my paranoia. My short term memory has fallen to zero. I hear voices at times (I have a family history of schizophrenia)
+
+ I can ot focus during lectures. I am too exhausted to have ambitions. I fell like if I end this now, I will probably leave a better image in the minds of my friends and go out with a little dignity.i am so paranoid that I cannot trust anyone anymore. My ties with my family are broken. My friends have inadvertently hurt me so much that idek what to feel. 
+I have kept deferring this decision way too long and I have always regretted it. I am tired of it all.Hanging by a thread. The outage which reportedly commenced on 3rd March 2023 continues in India. At this point, I am ditching the app. I was looking forward to returning to using the app after a 2-year hiatus but this level of instability is simply unacceptable.I used to use clickup in 2021 and I was looking forward to resuming using the app for personal project management. However, the app seems to have been "outages" which I never experienced back then. Are these really frequent? If they are, I guess I am better off settling for alternatives.I have a decent internet connection and the lists do load on my phone when connected to the same network. However, the lists don't load on the desktop app or in the browser. What is possible cause of this?
+
+&#x200B;
+
+**Edit: Nothing under Spaces is loading. I can only access the Home page.** 
+
+https://preview.redd.it/jfymcc64sdna1.png?width=950&format=png&auto=webp&s=62a1e2871cd74e70957bd124b7f5281d4be96ad2. I have been suffering from depression for a while now and my anxiety (which I realized has existed for around 5 years or more) has become worse over the past 2 years. Over the past year, I have become distanced from all my friends. Some of them were very cavalier about my condition which really angered me and I ended up distancing myself from them. Many of them left me on seen when I texted them about my condition and they never got back. When we hang out as a group I don't feel the same anymore. Before I used to be really cheerful and conversational. Now I am just a bystander while the rest of them have a good time. I want to communicate with them, make jokes, and be as lively around them as I used to be but I cannot bring myself to do that despite my best efforts.
+
+I feel really sad and extremely dejected. Nothing makes me happy anymore. Last year, when I used to hang around with my best friend, I used to feel really happy for that period most of my problems seemed to temporarily melt away. Not anymore.
+
+I would appreciate any advice as to how to come out of this rut. I don't want to carry on living like this. I want to feel happy again. I have enrolled in therapy and I am also on antidepressants. But things still look bleak and I am tired.I am using this app called Twos which by default does not have an option to pin the app to the system tray. I am aware of Kdocker but it requires me to pin the app to the system tray in every new session. Is there anyway to permanently pin an app to the system tray?. I keep imagining myself getting shot, hanging myself, slitting my writsts, or just leaping of the top of a building. This happens during classes, when I am hanging out with my friends, when I am trying to study, or when I am going to sleep. It's gotten so overwhelming that I overcompensate by appearing overtly happy in public. I don't know for how much longer I can keep holding on. I feel utterly alone. I constantly hear a nagging voice saying "I shouldn't be here", "I should have ended it two years ago". I feel like a walking corpse.Asking out of curiosity. Is there a quick and painless way to actually kill oneself? No pain, just a blissful exit. Without much hassle. &#x200B;
+
+https://preview.redd.it/y8cmuyh6m5da1.png?width=746&format=png&auto=webp&s=1d5c55190b8463c8652c859ad9ffdd00f55465f2
+
+In the settings, it is showing that Google Groupware cannot be configured because it cannot access KWallet. Any idea how I can resolve this?. I tried installing KDE Connect from Discover but it says "Dependency Resolution Failed.
+
+When I try to install KDE Connect via terminal, the following message gets displayed
+
+&#x200B;
+
+https://preview.redd.it/m7my597folca1.png?width=756&format=png&auto=webp&s=746b037d32422f7c5ad1d67e89489b46b2228681
+
+How do I resolve this problem?. &#x200B;
+
+https://preview.redd.it/pfrwquarfjca1.png?width=962&format=png&auto=webp&s=ffd07ce2e84f64b32d8d6565d6266f1e6cdc09fe
+
+When I try to update the apps, Discover crashes and closes. 
+
+I have run sudo pkcon refresh and sudo pkcon update. Upon running these commands, it is shown that there are no packages that are to be updated. Any idea why these apps are then still lingering on discover in the update section?. Are there any ways to mitigate brainfog from anxiety? My cognition really slows down during and immediately after any anxiety episode.My vault contains over 3k notes and over 4k attachments. Is there any way I can resolve this problem? This occurs everytime I try to open my vault
+
+My Operating System is **KDE Neon 5.26**
+
+&#x200B;
+
+https://preview.redd.it/wx2mpzbbrkba1.png?width=906&format=png&auto=webp&s=359f13b5c9b346e0af4ae5fe37938834f099c477. Anxiety and depression are the banes of my existence. I want it all to end. At one point I just know that I will lose the resolve to put up a fight and just end myself.My anxiety has intensified over the past 2 years and I am exhausted. Even the most mundane tasks stress me out and give me panic attacks. When I am at my work, every assignment I get leads to a panic attack and I end up crying in a desperate attempt to ventilate my anxiety. I have tried meds and therapy and neither seems to help. I don't know for how much longer I can put up with this.I remember being happy until I just stopped being so. I have been diagnosed with depression in anxiety, I am 23 years old, and I am dealing with immense career-related anxiety and uncertainty about my future. In this state, is it even possible to be happy? What is happiness? Is it being around people who love you? Or is it having the freedom to do what you like/love doing? I genuinely want some answers because I am at a loss here. I have read that seeking happiness as something to be achieved is the wrong way to go about it. Happiness just happens. How do I make it happen?. Well I am an adult but I am still in college. I graduate next year and I am one of the most fragile people around. I used to be extremely strong. I lost my best friend at 11, my mom became a mental patient around the same time, my ties with my parents crumbled and I weathered all of this. But over the past two years, I have lost my willpower and become soft. I cry at any thing and everything. The slightest pressure or stress that I face causes me to well up and this is what I have been facing in my internship. I just feel that life is rejecting me like some bad organ transplant.I am a university student currently in my penultimate year and I have been suffering from depression and anxiety for a while now. I know that after reading the title of my post, I will probably get a lot of messages from very kind people who are kind enough to reach out. The problem is that I wish there were people in my friend circle or family who understood me. Nobody I know really understands depression and anxiety, and this makes it difficult and honestly tiring for me to communicate my problems to people close to me. I know that things will get even bleaker once I graduate because I will slowly lose touch with my existing friends as well. I am so scared of being alone and having to live the rest of my life that way. I just feel lost and extremely lonely.I have been suffering from anxiety for over a year now and sometimes I feel that I have become slower. I also struggle to recall things that are at the very tip of my tongue. Is this a common consequence of anxiety?. Last year at this point my pet had just died, I had suffered from almost 50 complete breakdowns in the span of 2 months, I had just begun suffering from anxiety and my career was going nowhere. Cut to a year later, I am seeking help and I secured a decent internship which has given me a glimmer of hope. Nevertheless, the year was still cruel; I fucked up in my academics, I almost killed myself at one point, and I started hearing voices (which is scary given my family history of schizophrenia).   
+I feel nothing but I am just listlessly trudging forward, though I don't know why.\`\`\`tasks
+
+not done
+
+due before today
+
+group by due dsc
+
+sort by priority
+
+short mode
+
+\`\`\`
+
+This is the code that I am using the output is displayed below. I want to know if the dates can be arranged in descending order. 
+
+&#x200B;
+
+https://preview.redd.it/qgzggg09vl8a1.png?width=839&format=png&auto=webp&s=9b70487eeedc5b402324dde55bc73385cf75a9e2. &#x200B;
+
+https://preview.redd.it/dx7dr7v6wk7a1.png?width=1919&format=png&auto=webp&s=aaa8786bb450cda90827767c6be33667bcd30822
+
+Any idea what might be causing this? My vault has around 3k notes and 2k attachments. Does the size of the vault contribute to this issue? Will using too many plugins cause this?. After the latest update of the Google Calendar plugin, I found that the main.js file might be carrying a Trojan. Is anyone else using the plugin able to replicate this result? I am apprehensive about the safety of this plugin.
+
+https://preview.redd.it/a9vki8n4be7a1.png?width=1694&format=png&auto=webp&s=8232e53df255efec3f467d2fc5e7e47fa52d12f9. I was wondering if the icons of certain files embedded placed in the sidebars could be changed using some plugin or a snippet. 
+
+https://preview.redd.it/gm3f3k4tsm6a1.png?width=410&format=png&auto=webp&s=8945b1da9880711960ff59850919b0e8ec537aba. Is it possible to create a custom callout without an icon? Or is possible to render a callout with no icon, similar to how we remove icons for admonitions?. The update progress stops at 68%. I am unable to update 21 apps via discover. I am unable to update these apps even if I use the commands `sudo pckon refresh` and `sudo pkcon update`.I am not sure if this is a common problem right now (akin to what happened a few months back with the github issue). The community plugins page does not load. I am on a Linux OS and I have tried running Obsidian through the Snap, Flatpak, Appimage, and .deb installations but the error nevertheless happens.Here are screenshots of what the console displays. I don't know if this is helpful please help me out :(.
+
+&#x200B;
+
+https://preview.redd.it/x498f1i8tx2a1.png?width=607&format=png&auto=webp&s=815a7ac45a45cec2b97d1471ce76c77b99b501e1
+
+&#x200B;
+
+https://preview.redd.it/t58nutfatx2a1.png?width=612&format=png&auto=webp&s=261850d3cf7353d4cf43fa8df3d720dc63f2be6d. Wanted to know if anyone else is experiencing this issue. Obsidian was taking an inordinate amount of time to load (around 5 minutes). I turned on restricted mode (which disables all plugins) which led to the app  loading in seconds. I later turned off restricted mode, and disabled each of my plugins one by one. The problem was resolved when I disabled dataview.Went to the edge of hostel balcony situated on the 7th floor. 
+
+I have had suicidal ideations in the past. But I always felt uneasy about it. Today was different.  I gazed down and this time,  the height and hard pavement at the end of it all seemed welcoming. I could just feel the urge to jump and put and end to it all. My anxiety has reached its zenith, I can't function anymore, I have irretrievably ruined my life. I don't even remember walking back to my room. All I remember looking down while resting on the railing through tears in my eyes wanting to jump and recede into nothingness.My semester ends in less than a week. I plan to put an end to things shortly after going back home.
+
+I have been having anxiety for a year now. Unbearable anxiety which has worsened my depression, which I presume I have been having since 11. Until the pandemic hit I was resolute and weathered through everything. My mom has  schizophrenia and her condition has worsened over the past 12 years. During this time I became a poor student, lost all social skills, and became an introvert with very few friends. Nevertheless I had some hope. College was a breath of fresh air for me and I was looking forward to rekindling my old fire, now that I was far away from all the troubles at  home.
+
+The pandemic however threw a wrench into my plans; I fell into depression, my anxiety worsened, and owing to poor network coverage at home I could not attend classes and learn. Post-pandemic I feel lost. I have become severely depressed and it has made me a worse person. I have become prone to outbursts of rage and I stand the risk of alienating most of my friends. Ever since my mom's illness I have had strained relations with my family and my friends are all that I have. Now I stand the risk of losing that as well. I am not an asshole; I love them and I care about them but I can just viscerally feel that I have become a liability. 
+
+I have tried to be productive. I have put in a great deal of effort but things never worked out. I attended classes regularly, put in  effort, but owing to my depression, anxiety, and accompanying migraines, things have inevitably spiralled out of control. I can't cope with this any longer.  
+
+**I have also started hearing voices since the past 2 weeks.** The trajectory of my mom's illness resembles the stages that I have been through and I am scared. I can't recognise myself, I look at mysI don't know what I have lost in myself. Earlier I used to only experience mild suicidal ideations. Now they have turned into a resolved conviction. I look at my mother and other sphizophrenics in my family and I see people who have lost themselves and everybody who cared for them. I can see myself ending that way and I cannot bear that though.
+
+I have drafted parting mails that I want to send to my professors who were kind to me and helped me; the ones I know cared about me. 
+
+I wish things did not have to come to this but they have. I am tired of living. I have nothing to lose. I want to put an end to my steep fall before I come to be remembered as a dispensable deranged wretch. But I can't keep losing myself anymore. I just feel that I have a deep hole in my existence that nothing can feel. I feel haunted. Therapy has not worked, meds have not worked. Most of the time I feel that there's a lead in my chest weighing me down and making me sick to my stomach. This is no way to live.Is anyone else encountering this error when trying to update apps via discover? How do I resolve this?
+
+&#x200B;
+
+https://preview.redd.it/awa9o7ku45x91.png?width=1474&format=png&auto=webp&s=48fdfe6bd89ecafc58d0f01676325862a686be74. I have around 140 updates to go and I received the following message:
+
+ `Installed neon-keyring package post-installation script subprocess returned error exit status 1`
+
+&#x200B;
+
+https://preview.redd.it/zfrua8tb05x91.png?width=996&format=png&auto=webp&s=693b5b5ba659391ca7f336e7b792bac811d2e69b
+
+How do I resolve this?. I want to obtain the total number of tasks and number of completed tasks in a particular file. Is there any dataview query that can be formulated for this purpose?. Is there any way to make all images aligned centrally using css?.

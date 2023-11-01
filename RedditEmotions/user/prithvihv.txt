@@ -1,0 +1,25 @@
+There's isnt really one stable app which does real time location tracking .i have been working on this for a while now .
+
+[https://github.com/10kmmr/Conerive](https://github.com/10kmmr/Conerive)
+
+The current set of feature would include things like :
+
+* Realtime location view
+* Secure group travelling :- when one person goes too far away the app triggers a notification to the rest of the group
+* Photos taken by anyone is immediately updated to google drive and can be viewed my everyone in the group
+
+Any thoughts on the idea? or any additional features also an extra hand in design would be great
+
+Thank you. There's isnt really one stable app which does real time location tracking .i have been working on this for a while now .
+
+[https://github.com/10kmmr/Conerive](https://github.com/10kmmr/Conerive)
+
+The current set of feature would include things like : 
+
+* Realtime location view
+* Secure group travelling :- when one person goes too far away the app triggers a notification to the rest of the group
+* Photos taken by anyone is immediately updated to google drive and can be viewed my everyone in the group
+
+Any thoughts on the idea? or any additional features also an extra hand in development or design would be great
+
+Thank you.
