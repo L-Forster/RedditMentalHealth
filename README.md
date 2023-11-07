@@ -1,7 +1,7 @@
 # Setup
 
 Run ``pip install -r requirements.txt`` to install dependencies.
-Then run facade.py to load interface.
+Then run ``facade.py`` to load interface.
 
  
 ## Features:
@@ -16,5 +16,5 @@ Then run facade.py to load interface.
 - Changing content that is recommended to them.
 
 
-## **UI: **
+## UI:
 ![redditem](https://github.com/L-Forster/RedditMentalDisorders/assets/120142008/3f97e7f9-b734-475b-9bf2-60ca5a6ee09e)
