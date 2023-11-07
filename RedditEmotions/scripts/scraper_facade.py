@@ -1,4 +1,4 @@
-import scraper
+from RedditEmotions.scripts import scraper
 
 
 def main(name, type):

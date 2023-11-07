@@ -105,9 +105,9 @@ def clearFile(submission_type, name):
 def updateSubredditData(clientID, secretID, name):
     reddit_instance = createAgent(clientID, secretID)
     print("Updating\n", name)
-    path = "positive_samples"
+    path = "../positive_samples"
     if name == "casualconversation":
-        path = "negative_samples"
+        path = "../negative_samples"
     sub_data = createSub(name)
     name = os.path.splitext(name)[0]
     users = extractSubUsers(reddit_instance, name, sub_data)
@@ -122,7 +122,7 @@ def updateSubredditData(clientID, secretID, name):
 def updateUserData(clientID, secretID):
     # for every file in '/user', run extractUserData()
     reddit_instance = createAgent(clientID, secretID)
-    for name in os.listdir("user"):
+    for name in os.listdir("../user"):
         name = os.path.splitext(name)[0]
         submission_type = "user"
         clearFile(submission_type, name)

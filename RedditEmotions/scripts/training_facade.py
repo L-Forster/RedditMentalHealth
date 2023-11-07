@@ -1,4 +1,5 @@
-import training
+from RedditEmotions.scripts import training
+
 
 def main(file, path):
     training.main(file, path)

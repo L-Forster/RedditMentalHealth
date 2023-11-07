@@ -31,7 +31,7 @@ from sklearn.metrics import accuracy_score, classification_report
 def trainOnSub(subreddit, path):
 
 
-    df_neg = pd.read_csv("negative_samples/casualconversation.csv", header=None, sep="\t")
+    df_neg = pd.read_csv("../negative_samples/casualconversation.csv", header=None, sep="\t")
     df_pos = pd.read_csv("positive_samples/" +subreddit + ".csv", header=None, sep="\t")
 
 
@@ -74,7 +74,7 @@ def saveModel(model, subreddit, vectorizer):
 
 def generateBestModel(file, path):
     filepath = file + " acc.txt"
-    if filepath not in os.listdir("accuracy_values"):
+    if filepath not in os.listdir("../accuracy_values"):
         score_f = open("accuracy_values/" +filepath, "w")
         score_f.write("0.0")
         score_f.close()
