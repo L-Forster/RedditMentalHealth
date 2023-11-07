@@ -1,8 +1,10 @@
 **Setup**
-Run ``pip install -r requirements.txt`` to instal dependencies.
+
+Run ``pip install -r requirements.txt`` to install dependencies.
 Then run facade.py to load interface.
+
+ 
 Features:
-- 
 - This is not meant to diagnose anyone or trivialise mental disorders.
 - All data collected is publicly available and anonymous.
 - Shows general themes of an individual's comments & posts.
