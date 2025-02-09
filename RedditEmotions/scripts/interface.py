@@ -5,7 +5,6 @@ import facade
 from kivy.lang import Builder
 from kivymd.app import MDApp
 from kivy.garden.graph import BarPlot, MeshLinePlot, Graph
-
 KV = '''
 MDScreen:
 
