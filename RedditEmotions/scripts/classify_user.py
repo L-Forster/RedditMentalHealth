@@ -12,19 +12,12 @@ def loadSubredditModel(sub_name):
 
 def classifyWithModel(model, user_data, subreddit_name):
 
-    # run the analysis
     user_data = user_data.replace("\t", "")
 
-    vectorizer = pk.load(open("vectorizers/" +subreddit_name + "vectorizer.pk", 'rb'))
-    #
-    #
+    vectorizer = pk.load(open("vectorizers/" + subreddit_name + "vectorizer.pk", 'rb'))
     user_data_transformed = vectorizer.transform([user_data])
-    #
     predicted_sentiment = model.predict_proba(user_data_transformed)
-
-
     return predicted_sentiment[0]
-    # output the percentage chance of the disorder
 
 
 

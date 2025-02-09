@@ -194,6 +194,7 @@ class Redditor(MDApp):
 
         probs = []
     def getAccuracy(self, disorder):
+        return -1
         f = open("accuracy_values/"+disorder+" acc.txt", "r")
         acc_val = (f.read())
         acc_val=  round(float(acc_val),4)

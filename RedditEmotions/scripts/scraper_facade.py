@@ -13,6 +13,6 @@ def main(name, type):
 
 
 # main(name, type)
-# main("npd","update")
+main("npd","update")
 # main("casualconversation","update")
 # main("bipolar", "update")

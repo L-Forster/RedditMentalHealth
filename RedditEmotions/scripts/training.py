@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import accuracy_score
 
 #train data based on specific subreddits and behaviours
 
@@ -32,7 +32,7 @@ def trainOnSub(subreddit, path):
 
 
     df_neg = pd.read_csv("../negative_samples/casualconversation.csv", header=None, sep="\t")
-    df_pos = pd.read_csv("positive_samples/" +subreddit + ".csv", header=None, sep="\t")
+    df_pos = pd.read_csv("positive_samples/" + subreddit + ".csv", header=None, sep="\t")
 
 
     df_pos["sentiment"] = 1
@@ -43,8 +43,7 @@ def trainOnSub(subreddit, path):
     x_train, x_test, y_train, y_test = train_test_split(x, y, test_size=0.2)
 
 
-    vectorizer = TfidfVectorizer(sublinear_tf=True, encoding='utf-8',
-                             decode_error='ignore')
+    vectorizer = TfidfVectorizer(sublinear_tf=True, encoding='utf-8', decode_error='ignore')
     x_train = vectorizer.fit_transform(x_train)
     x_test = vectorizer.transform(x_test)
 
@@ -57,12 +56,11 @@ def trainOnSub(subreddit, path):
 
     # accuracy
     model_accuracy = accuracy_score(y_test, y_pred)
-
-
     print("Accuracy:", accuracy_score(y_test, y_pred))
 
 
     return model, model_accuracy, vectorizer
+
 
 
 def saveModel(model, subreddit, vectorizer):
@@ -71,6 +69,7 @@ def saveModel(model, subreddit, vectorizer):
     pk.dump(vectorizer, open("vectorizers/" + subreddit + "vectorizer.pk", "wb"))
 
     print("Model Updated! \n")
+
 
 def generateBestModel(file, path):
     filepath = file + " acc.txt"
@@ -100,6 +99,7 @@ def generateBestModel(file, path):
     print(best_score)
     score_f.write(str(best_score))
     score_f.close()
+
 
 def main(file, path):
     generateBestModel(file,path)
