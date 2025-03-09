@@ -139,7 +139,7 @@ def createSub(strName):
     except:
         print("No corresponding Enum class\n")
         enum_value = "null"
-        raise ValueError("!!!")
+        raise ValueError(strName, "!!!")
     # Get data from corresponding dict
     for sub in sub_dict:
         if sub["id"] == enum_value:

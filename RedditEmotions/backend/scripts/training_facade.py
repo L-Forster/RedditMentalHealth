@@ -1,4 +1,4 @@
-from RedditEmotions.scripts import training
+import training
 
 
 def main(file, path):

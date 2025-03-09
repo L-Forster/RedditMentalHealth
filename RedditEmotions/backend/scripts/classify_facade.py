@@ -1,4 +1,4 @@
-from RedditEmotions.scripts import classify_user
+import classify_user
 
 
 def main(subreddit_name, user):

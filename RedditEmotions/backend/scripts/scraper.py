@@ -130,8 +130,10 @@ def updateUserData(clientID, secretID):
         saveData(data, name, submission_type="user")
 
 
-
 def main(name, clientID, secretID, submission_type):
+    # Create directories if they don't exist
+    if not os.path.exists(submission_type):
+        os.makedirs(submission_type)
 
     reddit_instance = createAgent(clientID, secretID)
     if not os.path.isfile(submission_type + "/" + name + ".txt"):

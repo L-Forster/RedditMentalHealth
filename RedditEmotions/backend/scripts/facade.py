@@ -1,6 +1,7 @@
 import os
-from RedditEmotions.scripts import classify_facade, scraper_facade, training_facade
-
+import classify_facade
+import scraper_facade
+import training_facade
 
 def main(subreddit, user, type):
 

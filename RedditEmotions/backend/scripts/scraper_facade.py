@@ -1,9 +1,8 @@
-from RedditEmotions.scripts import scraper
-
+import scraper
 
 def main(name, type):
-    clientID = "INSERT CLIENT KEY"
-    secretID = "INSERT SECRET KEY"
+    clientID = "CLIENT KEY HERE"
+    secretID = "SECRET KEY HERE"
 
     if type == "update":
         scraper.updateSubredditData(clientID, secretID, name)
@@ -13,6 +12,6 @@ def main(name, type):
 
 
 # main(name, type)
-main("npd","update")
+# main("npd","update")
 # main("casualconversation","update")
 # main("bipolar", "update")
