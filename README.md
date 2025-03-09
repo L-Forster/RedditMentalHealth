@@ -104,6 +104,11 @@ RedditMentalDisorders/
 - Always respect Reddit's API terms of service
 - Consider the privacy implications before analyzing usernames without consent
 
+## Other Notes
+- Ideally use embeddings instead of tfidf for better results
+- Fix systematic error regarding ADHD scoring
+- Find a better data source - if labelled use regression instead of classification
+
 ## Contributing
 Contributions are welcome. Please feel free to submit a Pull Request.
 
