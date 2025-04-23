@@ -9,9 +9,6 @@ This application analyzes Reddit user activity to estimate the probability of va
 - Support for multiple mental health conditions including depression, anxiety, bipolar disorder, PTSD, NPD, and BPD
 - Model updating capability to keep analysis current
 
-### Input
-![image](https://github.com/user-attachments/assets/32948de0-4b40-40f8-9012-a81ea71f940e)
-
 
 
 ## Project Structure
