@@ -12,8 +12,6 @@ This application analyzes Reddit user activity to estimate the probability of va
 ### Input
 ![image](https://github.com/user-attachments/assets/32948de0-4b40-40f8-9012-a81ea71f940e)
 
-### Output
-![image](https://github.com/user-attachments/assets/94ca4f6c-a853-4c2b-9c21-9e4972a7e7bc)
 
 
 ## Project Structure
